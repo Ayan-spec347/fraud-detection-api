@@ -1,0 +1,20 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environments
+env/
+venv/
+.env
+
+# Massive Data Files
+data/
+models/*.pkl
+
+# System Files
+.DS_Store
+ 
+ 
